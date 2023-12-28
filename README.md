@@ -28,6 +28,11 @@
 
 ### Start with the build script
 
+##### QUICK START
+```bash
+./build.sh
+```
+
 ##### Development branch:
 
 ```bash
