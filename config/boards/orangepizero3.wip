@@ -13,3 +13,5 @@ FORCE_BOOTSCRIPT_UPDATE="yes"
 BOOTSOURCE="https://source.denx.de/u-boot/u-boot.git"
 BOOTBRANCH="branch:v2024.01-rc5"
 BOOTFS_TYPE="fat"
+
+enable_extension "uwe5622-allwinner"
